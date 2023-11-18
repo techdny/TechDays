@@ -1,0 +1,52 @@
+/* Celá stránka (barva pozadí, font) */
+body {
+    margin: 0; /* Reset výchozího CSS */
+    padding: 0; /* Reset výchozího CSS */
+    background-color: #f3f3f3; /* Barva pozadí */
+    font-family: Arial, Helvetica, sans-serif; /* Font */
+    height: 100vh; /* Nastavení, aby stránka přesně vyšla na obrazovku */
+    display: flex; 
+    flex-direction: column; /* Uspořádání hlavičky a obsahu */
+}
+
+/* ==== SPECIÁLNÍ ZNAKY NA KLÁVESNICI ==== */
+/* '{' > 'Ctrl' + '[' (vedle písmena p)  */
+/* '}' > 'Ctrl' + ']' (dvě klávesy vedle písmena p)  */
+/* '-' > '-' Napravo od nuly */
+/* ';' > ';' Vedle písmena L */
+/* ':' > 'Shift' + ';' Vedle písmena L */
+
+/* Hlavička (banner nahoře na stránce) */
+header {
+
+}
+
+/* Navigace (menu) */
+nav {
+
+}
+
+/* Celý obsah stránky */
+main {
+
+}
+
+/* Div ve kterém je obrázek a text */
+.content {
+
+}
+
+/* Div ve kterém je nadpis a popisek */
+.text {
+
+}
+
+/* Nadpis */
+h1 {
+
+}
+
+/* Obrázek */
+img {
+
+}
