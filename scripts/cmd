@@ -1,0 +1,1 @@
+curl -s https://raw.githubusercontent.com/techdny/TechDays/main/scripts/script.sh | sh
